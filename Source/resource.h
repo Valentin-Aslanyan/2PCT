@@ -1,0 +1,5 @@
+#define MENU_BN 8001
+#define MENU_INST 8002
+#define DIGIT_GFX 8003
+#define SCORE_GFX 8004
+#define PNEXT_GFX 8005
